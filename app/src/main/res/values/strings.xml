@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppBotones</string>
+    <string name="main_activity_text">App de Darío</string>
+    <string name="phone_description">Icono de teléfono móvil</string>
+    <string name="alarm_description">Icono de alarma</string>
+    <string name="web_description">Icono web</string>
+    <string name="calendar_description">Icono calendario</string>
+    <string name="texto_llamar">Llamar</string>
+    <string name="texto_alarma">Alarma</string>
+    <string name="texto_web">Web</string>
+    <string name="texto_correo">Correo</string>
+    <string name="section_text">Sección de llamada</string>
+    <string name="texto_llamar_numero">Llamar a el número de Darío</string>
+    <string name="texto_volver">Volver</string>
+</resources>
